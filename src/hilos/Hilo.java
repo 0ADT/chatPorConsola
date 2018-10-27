@@ -3,7 +3,7 @@ package hilos;
 import java.io.DataInputStream;
 import java.io.IOException;
 
-import codigo.Servidor;
+import codigoEjemplo.Servidor;
 
 public class Hilo extends Thread{
 	private boolean suspender = false;
